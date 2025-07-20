@@ -59,9 +59,8 @@ $ export API_ENV_VAR="your-api-key-here"
 PS> $env:API_ENV_VAR = "your-api-key-here"
 ```
 
-### Set OpenAI API key
-* If you don't have an OpenAI API key, you can sign up [here](https://openai.com/index/openai-api/).
-*  Set `OPENAI_API_KEY` in your environment 
+### Set Google Gemini API key
+*  Set `GOOGLE_API_KEY` in your environment 
 
 ### Sign up and Set LangSmith API
 * Sign up for LangSmith [here](https://smith.langchain.com/), find out more about LangSmith
