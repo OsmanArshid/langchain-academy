@@ -6,7 +6,10 @@ langsmith
 langchain-community
 langchain-core
 langchain-google-genai
+langchain-tavily
 notebook
+ipykernel
+python-dotenv
 tavily-python
 wikipedia
 trustcall
